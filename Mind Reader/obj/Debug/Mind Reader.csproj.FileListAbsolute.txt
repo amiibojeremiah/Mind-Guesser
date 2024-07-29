@@ -1,0 +1,11 @@
+C:\Users\Jerem\Downloads\c++ game engine test again\Ytdlpgui\Mind Reader\bin\Debug\Mind Reader.exe.config
+C:\Users\Jerem\Downloads\c++ game engine test again\Ytdlpgui\Mind Reader\bin\Debug\Mind Reader.exe
+C:\Users\Jerem\Downloads\c++ game engine test again\Ytdlpgui\Mind Reader\bin\Debug\Mind Reader.pdb
+C:\Users\Jerem\Downloads\c++ game engine test again\Ytdlpgui\Mind Reader\obj\Debug\Mind Reader.csproj.AssemblyReference.cache
+C:\Users\Jerem\Downloads\c++ game engine test again\Ytdlpgui\Mind Reader\obj\Debug\Mind Reader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jerem\Downloads\c++ game engine test again\Ytdlpgui\Mind Reader\obj\Debug\Mind_Reader.Form1.resources
+C:\Users\Jerem\Downloads\c++ game engine test again\Ytdlpgui\Mind Reader\obj\Debug\Mind_Reader.Properties.Resources.resources
+C:\Users\Jerem\Downloads\c++ game engine test again\Ytdlpgui\Mind Reader\obj\Debug\Mind Reader.csproj.GenerateResource.cache
+C:\Users\Jerem\Downloads\c++ game engine test again\Ytdlpgui\Mind Reader\obj\Debug\Mind Reader.csproj.CoreCompileInputs.cache
+C:\Users\Jerem\Downloads\c++ game engine test again\Ytdlpgui\Mind Reader\obj\Debug\Mind Reader.exe
+C:\Users\Jerem\Downloads\c++ game engine test again\Ytdlpgui\Mind Reader\obj\Debug\Mind Reader.pdb
